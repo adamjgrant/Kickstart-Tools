@@ -17,4 +17,6 @@ You can also cd into the extension like this
 
 ## Return home
 
+Where home is the root of the project, not your machine's home `~` directory.
+
     kickstart cd ~
