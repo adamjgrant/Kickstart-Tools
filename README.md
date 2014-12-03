@@ -1,6 +1,6 @@
 # About
 
-Shortcuts for Kickstart extension development. In the past, cd-ing into all these different directories becomes painful.
+Shortcuts for Kickstart extension development. In the past, `cd`-ing into all these different directories becomes painful.
 This shell tool automatically detects the location of your themes and components, allowing you to run commands in their submodules or `cd` into them.
 
 # Shortcuts
